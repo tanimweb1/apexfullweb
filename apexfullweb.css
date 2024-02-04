@@ -1,0 +1,292 @@
+.apexmain {
+  height: 250px;
+  width: 100%;
+  background-image: url(../images/ApexBanner.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 50px;
+}
+.web1 {
+  background-color: white;
+  color: black;
+  font-size: small;
+  padding: 10px 100px 10px 10px;
+  text-align: right;
+}
+.web1 {
+  padding: 0px 15px;
+}
+.web2 {
+  background-color: transparent;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.web2:hover {
+  background-color: white;
+  color: black;
+}
+
+.acbd {
+  display: flex;
+  align-items: center;
+}
+.aaa {
+  padding: 0 6px;
+}
+.main {
+  color: white;
+  text-align: center;
+  margin-top: 40px;
+}
+.web6 {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  width: 150px;
+  height: 40px;
+  margin: 8px;
+  padding: 10px;
+  border-radius: 9px;
+}
+.web6:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+}
+.para {
+  width: 300px;
+}
+.web9 {
+  font-size: 40px;
+}
+.webde11 {
+  background-color: #191919;
+  width: 100%;
+  height: 700px;
+  color: white;
+  z-index: -2;
+}
+.para1 {
+  font-size: 40px;
+  font-weight: 900;
+}
+.para2 {
+  font-size: 15px;
+}
+.webde13 {
+  margin-top: 80px;
+}
+.webde12 {
+  margin: 0 0 0 99px;
+  padding-top: 51px;
+}
+.img1 {
+  position: absolute;
+  top: 600px;
+  left: 120px;
+  z-index: 2;
+}
+.shopvideo {
+  position: absolute;
+  top: 270px;
+  left: 850px;
+  z-index: 1;
+  
+}
+.display {
+  font-size: larger;
+  margin-top: 9px;
+}
+.bb {
+  margin: 5px;
+  margin-right: 10px;
+}
+.apexweb{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+.web15{
+ 
+  display: inline;
+}
+.webimg1{
+  color: blueviolet;
+  display: grid;
+  grid-row: 1;
+  margin: 5px 20px;
+  margin-top: 500px;
+}
+.web29 {
+  display: flex;
+}
+.ooo {
+  font-size: 30px;
+  padding-left: 15px;
+}
+.ppp {
+  font-size: 15px;
+  padding-left: 15px;
+}
+.qqq {
+  font-size: 10px;
+  padding-left: 15px;
+
+
+}
+.subimg12{
+  position: relative;
+  margin-top: 50px;
+}
+.img12w{
+  position: absolute;
+}
+.img13w{
+  position: absolute;
+  margin-left: 1520px;
+  margin-top: 160px;
+  
+
+}
+.txt12{
+  color: black;
+  position: absolute;
+  margin-top: 800px;
+  margin-left: 1400px;
+  font-size: 40px;
+  color: white;
+   text-shadow: 6px;
+   font-weight: bold;
+}
+.txt13{
+  position: absolute;
+  color: black;
+  margin-top: 855px;
+  margin-left: 1350px;
+  font-size: large;
+  color: white;
+  font-weight: bold;
+}
+.txt14{
+  color: rgb(0, 0, 0);
+  margin-top: 890px;
+  margin-left: 1670px;
+  position: absolute;
+  border: 1px solid white;
+  border-radius: 2px;
+  background-color: white;
+  font-size: large;
+  padding: 3px;
+
+  text-shadow: white;
+}
+.txt14:hover{
+  color:white ;
+  background-color: rgb(16, 16, 16);
+}
+.wedding {
+  color: rgb(0, 0, 0);}
+
+.main29 {
+  position: relative;
+  height: 500px;
+  text-align: center;
+  padding-top: 0.5px;
+}
+.wedding::before {
+  content: "";
+  position: absolute;
+  height: 30px;
+  width: 60%;
+  top: 40px;
+  right: 20%;
+  border: 2px solid rgb(0, 0, 0);
+  border-bottom: 0px;
+  z-index: -1;
+}
+.wed {
+  background-color: white;
+  padding: 15px;
+}
+.main29::after {
+  content: "";
+  position: absolute;
+  height: 30px;
+  width: 60%;
+  bottom: 40px;
+  right: 20%;
+  border: 2px solid rgb(0, 0, 0);
+  border-top: 0px;
+  z-index: -1;
+}
+.img290 {
+  display: inline;
+  width: 600px;
+  margin: 0 10px;
+  padding: 0 10px;
+}
+.boxname {
+  display: block;
+  font-weight: 600;  
+  font-size: 25px;
+}
+.price {
+  font-size: 20px;
+}
+.wedbox2 {
+  display: flex;
+  padding: 0 px;
+  padding-bottom: 50px;
+}
+.wedbox1 {
+  padding: 0 350px;
+}
+.weddingbox{
+  margin-top: 1650px;
+  
+}
+
+.promo {
+  margin: 5px 15px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.promo1 {
+  position: relative;
+}
+.promo2 {
+  position: relative;
+}
+.promo3 {
+  position: relative;
+}
+.promo_txt {
+  position: absolute;
+  bottom: 10px;
+  width: 550px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  margin-left: 25px;
+  background-color: white;
+  bottom: -40px;
+}
+.pro {
+  margin: 0 10px;
+}
+.txtln1 {
+  font-size: 20px;
+  font-weight: 800;
+}
+.txtln2 {
+  font-size: 20px;
+}
+
+@media screen and (max-width: 768px;){
+  .web1 {
+    background-color: black;
+    color: white;
+  }
+}
